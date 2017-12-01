@@ -1,0 +1,73 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Bree Serif', serif;
+}
+
+nav.nav-extended {
+	height: auto;
+}
+
+.barra-navegacion{
+	background-color: #d62916;	
+}
+
+.logo-123{
+    width: 27%;
+    margin-top: -3%;
+    margin-bottom: -5%;
+    float: right!important;
+}
+
+.tabs.tabs-transparent .tab a{
+	font-size: 18px;
+}
+
+.tabs.tabs-transparent .tab a.active{
+	font-size: 20px;
+	color: yellow;
+}
+
+.contenedor{
+    background-image: url(../img/mario.jpg);
+    width: 100%;
+    padding: 4%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+	.secciones{
+	    padding-top: 5%;
+	    padding-bottom: 1%;
+	    padding-left: 1%;
+	    padding-right: 1%;
+	    background-color: rgba(255, 255, 255, 0.65);
+	    height: auto;
+	    .logo-super{
+			width: 39%;
+		}
+	    .super{
+			border: 3px solid #0f4e71;
+			width: 100%
+		}
+	}
+}
+
+.contenedor-2{
+	width: 95%;
+    margin-left: 3%;
+}
+
+.footer{
+	border-top: 5px solid white;
+	background-color: #d62916;
+    height: 20vh;
+    h4{
+    	margin: 0;
+    }
+}
+
+
+
+
+
+
